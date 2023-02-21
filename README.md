@@ -13,6 +13,7 @@ Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't
   <li>I'm a black belt in Taekwondo, i was a professional athlete and competed in national and international championships</li>
   <li>One of my hobbies is music, I love listening and making music, and I have authorial work released on digital platforms</li>
   <li>During the faculty of human sciences, my study and research was focused on the Trans and Queer population</li>
+  <li>One of my favorite hobbies is watching movies and series, I think I can consider myself a cinephile</li>
   </ul>
   
   <h2>Languages and Tools</h2>
