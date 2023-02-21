@@ -7,6 +7,7 @@ Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't
 
 <ul>
   <li>I'm a black belt in Taekwondo, i was a professional athlete and competed in national and international championships</li>
+  <li>One of my hobbies is music, I love listening and making music, and I have authorial work released on digital platforms</li>
   </ul>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
