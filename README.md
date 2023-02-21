@@ -18,7 +18,7 @@ Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't
   
   <h2>Languages and Tools</h2>
   
- <img alt="Html5" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="180" heigth="180" />
+ <img alt="Html5" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="180" heigth="180" /><img alt="Html5" src="https://w7.pngwing.com/pngs/359/101/png-transparent-aperture-laboratories-science-technology-laboratory-portal-science-blue-text-computer-thumbnail.png" width="180" heigth="180" />
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
