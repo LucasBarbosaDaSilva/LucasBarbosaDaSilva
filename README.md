@@ -1,3 +1,5 @@
+[![LinkedIn Badge](https://img.shields.io/badge/-lucasbarbosa123-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbarbosa123/)](https://www.linkedin.com/in/lucasbarbosa123/)
+
 <h1>Hello Everybody!</h1>
 
 <p> Web Development Student at Trybe, graduated in the Web Fundamentals block where I learned content such as: Unix & Bash, Git, Basic JS & DOM, HTML, CSS, JS ES6, Higher Order Functions and Unit Tests, as well as agile methodologies and behavioral skills . Currently student of Front-End Development with introduction to React.
