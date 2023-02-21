@@ -18,7 +18,7 @@ Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't
   
   <h2>Languages and Tools</h2>
   
- <img alt="Html5" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="180" heigth="180" /><img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="80" heigth="80" /><img alt="Redux" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="80" heigth="80" />
+ <img alt="Html5" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="180" heigth="180" /><img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="80" heigth="80" /><img alt="Redux" src="https://media.licdn.com/dms/image/C4E12AQElvDkXzTw85g/article-cover_image-shrink_720_1280/0/1615427806393?e=2147483647&v=beta&t=EJXnS8HTpBtI4L9AT18g6Phe23uEazSCvKrepSn2LMA" width="80" heigth="80" />
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
