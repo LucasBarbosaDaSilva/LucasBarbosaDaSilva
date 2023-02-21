@@ -18,7 +18,7 @@ Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't
   
   <h2>Languages and Tools</h2>
   
- <img alt="Html5" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="180" heigth="180" /><<img alt="Redux-React" src="https://media.licdn.com/dms/image/C4E12AQElvDkXzTw85g/article-cover_image-shrink_720_1280/0/1615427806393?e=2147483647&v=beta&t=EJXnS8HTpBtI4L9AT18g6Phe23uEazSCvKrepSn2LMA" width="140" heigth="140" /><img alt="Node" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="120" heigth="120" /><img alt="Jest" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" width="120" heigth="120" />
+ <img alt="Html5" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="180" heigth="180" /><<img alt="Redux-React" src="https://media.licdn.com/dms/image/C4E12AQElvDkXzTw85g/article-cover_image-shrink_720_1280/0/1615427806393?e=2147483647&v=beta&t=EJXnS8HTpBtI4L9AT18g6Phe23uEazSCvKrepSn2LMA" width="140" heigth="140" /><img alt="Node" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="120" heigth="120" /><img alt="Jest" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" width="100" heigth="100" />
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
