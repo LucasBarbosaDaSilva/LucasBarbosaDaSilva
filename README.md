@@ -18,7 +18,7 @@ Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't
   
   <h2>Languages and Tools</h2>
   
-  <img alt="Html5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" />
+  <img alt="Html5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="16" heigth="16" />
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
