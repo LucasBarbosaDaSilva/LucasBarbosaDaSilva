@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/-lucasbarbosa123-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbarbosa123/)](https://www.linkedin.com/in/lucasbarbosa123/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbarbosa123/)](https://www.linkedin.com/in/lucasbarbosa123/)
 [![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:l.barbosatkd@gmail.com)](mailto:l.barbosatkd@gmail.com)
 
 <h1>Hello Everybody!</h1>
