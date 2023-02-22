@@ -1,7 +1,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbarbosa123/)](https://www.linkedin.com/in/lucasbarbosa123/)
 [![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:l.barbosatkd@gmail.com)](mailto:l.barbosatkd@gmail.com)
 
-<img alt="logo" src="https://drive.google.com/file/d/1mi43Uid63KVDb2-gQnY9LBdoiqni3PAV/view?usp=share_link" />
+
 <h1>Hello Everybody!</h1>
 
 <p> Web Development Student at Trybe, graduated in the Web Fundamentals block where I learned content such as: Unix & Bash, Git, Basic JS & DOM, HTML, CSS, JS ES6, Higher Order Functions and Unit Tests, as well as agile methodologies and behavioral skills . Currently student of Front-End Development with introduction to React.
