@@ -13,7 +13,7 @@ Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't
 <ul>
   <li>With absolute certainty my favorite drink is coffee, it's the first thing I do when I wake up ☕</li>
   <li>I'm a black belt in Taekwondo, i was a professional athlete and competed in national and international championships 🥋 🏅</li>
-  <li>One of my hobbies is music, I love listening and making music, and I have authorial work released on digital platforms 🪕</li>
+  <li>One of my hobbies is music, I love listen and do music, and I have authorial work released on digital platforms 🪕</li>
   <li>During the faculty of human sciences, my study and research was focused on the Trans and Queer population 🏳️‍🌈 </li>
   <li>One of my favorite hobbies is watching movies and series, I think I can consider myself a cinephile and my favorite is Lord of the Rings 🎥 🧙</li>
   </ul>
