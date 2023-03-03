@@ -4,7 +4,7 @@
 
 <h1>Hello Everybody!🖖</h1>
 
-<p> Web Development Student at Trybe, graduated in the Web Fundamentals block where I learned content such as: Unix & Bash, Git, Basic JS & DOM, HTML, CSS, JS ES6, Higher Order Functions and Unit Tests, as well as agile methodologies and behavioral skills .<br> Currently student of Front-End Development with introduction to React.
+<p> Front-End development with knowledge in technologies such as React, RTL testing, React with Redux, ContextAPI and ReactHooks, with experience working in groups with agile methodologies such as Kanban and Scrum.
 Born in Juiz de Fora, a native of Minas Gerais with a carioca influence, doesn't dispense with a good bread cheese  and coffee 😋. <br>Passionate about technology since childhood, i believe in teamwork, honest and impacting people's lives in a positive way ✌️. 
  <br>A bit nerdy, a bit artist, and now a bit programmer!🫰🚀</p>
 
